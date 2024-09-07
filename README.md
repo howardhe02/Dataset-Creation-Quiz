@@ -33,5 +33,5 @@ To run this project locally:
 
 ## Screenshots
 
-![Quiz Interface]([https://github.com/yourusername/fullstack-online-quiz/blob/main/images/quiz_interface.png](https://github.com/howardhe02/Dataset-Creation-Quiz/blob/master/PHP.png))
+![Quiz Interface](PHP.png)
 
